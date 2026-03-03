@@ -54,7 +54,7 @@ sequenceDiagram
 
 ## 活用例
 
-このリポジトリで検証したClause Issue Assistantの機能は、以下のような業務シーンで活用できます。
+このリポジトリで検証したClaude Issue Assistantの機能は、以下のような業務シーンで活用できます。
 
 ### ドキュメント管理の効率化
 
